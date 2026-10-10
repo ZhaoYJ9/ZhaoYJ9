@@ -22,7 +22,7 @@ An enterprise document Q&A system focused on **chunking quality and hybrid retri
 
 `Spring Boot` `Spring AI` `PostgreSQL / pgvector` `Redis` `MinIO`
 
-*No public GitHub repository.*
+
 
 ## Research
 
@@ -32,7 +32,7 @@ Research on detecting **dense small objects in UAV imagery** using RT-DETR and t
 
 `Python` `PyTorch` `RT-DETR` `VisDrone` `Small Object Detection`
 
-*No public GitHub repository.*
+
 
 ## Technical Skills
 
